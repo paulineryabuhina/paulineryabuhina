@@ -1,7 +1,7 @@
 # Junior frontend developer from Moscow
 ## Stack:
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/>&nbsp;
+<img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" width="40" height="40"/>&nbsp;
 <img src="https://sass-scss.ru/assets/img/styleguide/seal-color-aef0354c.png" title="scss" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JS" width="40" height="40"/>&nbsp;
@@ -9,17 +9,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="git" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWpKssafdf9WKmMrMR2kWeMqmfHH5ljRQ5ICqgATmbg&s" title="vue" width="40" height="40"/>&nbsp;
-<!--
-**paulineryabuhina/paulineryabuhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
