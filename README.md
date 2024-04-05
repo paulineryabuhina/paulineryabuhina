@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Junior frontend developer from Moscow
+## Stack:
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" title="html" width="40" height="40"/>&nbsp;
 <!--
 **paulineryabuhina/paulineryabuhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
