@@ -1,4 +1,4 @@
-# Junior frontend developer from Moscow
+# Intern frontend developer from Moscow
 ## Stack:
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" title="CSS" width="40" height="40"/>&nbsp;
